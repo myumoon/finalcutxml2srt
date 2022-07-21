@@ -1,0 +1,8 @@
+# ビルド
+__pycache__/
+/build/
+/dist/
+*.spec
+
+# 作業ファイル
+*.ignore
